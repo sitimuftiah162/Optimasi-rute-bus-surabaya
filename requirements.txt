@@ -1,9 +1,9 @@
-import streamlit
-import pandas
-import networkx
-import folium_static
-import folium
-import numpy
-import AntPath
-import datetime, timedelta
+streamlit
+pandas
+networkx
+folium_static
+folium
+numpy
+AntPath
+datetime, timedelta
  
