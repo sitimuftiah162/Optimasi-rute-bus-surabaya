@@ -1,9 +1,7 @@
 streamlit
 pandas
 networkx
-folium_static
+streamlit-folium
 folium
 numpy
-AntPath
-
  
